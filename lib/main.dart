@@ -19,7 +19,7 @@ class IDCardScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey[200],
+      backgroundColor: Colors.blueGrey,
       appBar: AppBar(
         title: Text('Digital ID Card'),
         centerTitle: true,
